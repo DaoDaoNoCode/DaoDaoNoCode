@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Juntao+Wang+%F0%9F%91%8B;%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E7%8E%8B%E5%90%9B%E6%B6%9B+%F0%9F%91%8B;Frontend+Engineer+%40+Red+Hat;MLOps+Platform+Builder;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Juntao+Wang+%F0%9F%91%8B;%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E7%8E%8B%E4%BF%8A%E9%9F%AC+%F0%9F%91%8B;Frontend+Engineer+%40+Red+Hat;MLOps+Platform+Builder;Open+Source+Contributor" alt="Typing SVG" />
+
+<br/>
 
 <!-- Social Badges -->
 <a href="https://github.com/DaoDaoNoCode">
@@ -54,13 +56,6 @@ const juntao: Developer = {
 ---
 
 ## 📊 GitHub Stats · 数据
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DaoDaoNoCode&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaoDaoNoCode&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" />
-
-</div>
 
 <div align="center">
 
