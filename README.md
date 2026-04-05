@@ -15,15 +15,24 @@
 
 ---
 
-```typescript
-const juntao: Developer = {
-  name:     "Juntao Wang (王俊韬)",
-  role:     "Software Engineer — Frontend",
-  focus:    ["MLOps Platforms", "AI/ML Tooling", "Open Source"],
-  stack:    ["TypeScript", "React", "Python", "Go", "Kubernetes"],
-  projects: ["ODH Dashboard", "Kubeflow", "MLflow", "Model Registry"],
-  languages: ["中文 🇨🇳", "English 🇬🇧"],
-};
+```bash
+~/DaoDaoNoCode $ whoami
+> Juntao Wang (王俊韬)  ·  Frontend Engineer
+
+~/DaoDaoNoCode $ cat focus.txt
+> MLOps Platforms  ·  AI/ML Tooling  ·  Open Source
+
+~/DaoDaoNoCode $ ls stack/
+TypeScript/   React/   Python/   Go/   Kubernetes/
+
+~/DaoDaoNoCode $ git log --oneline
+a1f3c2d  feat: improve ODH Dashboard UX for model serving
+9b2e817  fix: kubeflow pipeline graph rendering
+3d7a021  chore: update MLflow model registry components
+f4c9b38  refactor: shared UI library for OpenShift AI
+
+~/DaoDaoNoCode $ echo $LANGUAGES
+中文 🇨🇳  ·  English 🇬🇧
 ```
 
 ---
