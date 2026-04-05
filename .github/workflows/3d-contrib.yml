@@ -15,15 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: DaoDaoNoCode
-          SETTING_JSON: |
-            {
-              "githubUserName": "DaoDaoNoCode",
-              "startForegroundColor": "#00D9FF",
-              "endForegroundColor": "#0D1117",
-              "backgroundImagePath": "",
-              "backgroundColor": "#0D1117",
-              "type": "normal"
-            }
 
       - name: Commit & Push
         run: |
