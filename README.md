@@ -32,6 +32,7 @@ f4c9b38  refactor: shared UI library for OpenShift AI
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaoDaoNoCode/DaoDaoNoCode/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaoDaoNoCode/DaoDaoNoCode/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/DaoDaoNoCode/DaoDaoNoCode/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
@@ -39,6 +40,10 @@ f4c9b38  refactor: shared UI library for OpenShift AI
 
 <div align="center">
 
-![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
 
 </div>
