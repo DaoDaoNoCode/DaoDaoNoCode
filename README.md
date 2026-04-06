@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Juntao%20Wang%20%C2%B7%20%E7%8E%8B%E4%BF%8A%E9%9F%AC&fontSize=34&fontColor=fff&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Juntao%20Wang&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&fontFamily=Orbitron&desc=%E7%8E%8B%E4%BF%8A%E9%9F%AC&descSize=20&descAlignY=58&descFontFamily=ZCOOL+QingKe+HuangYou)
 
 <div align="center">
 
