@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header)
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Juntao+Wang" alt="Name" />
@@ -55,4 +53,3 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
