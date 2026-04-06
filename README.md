@@ -20,17 +20,11 @@
 
 <br/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6#gh-dark-mode-only)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E#gh-dark-mode-only)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB#gh-dark-mode-only)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5#gh-dark-mode-only)
-![OpenShift](https://img.shields.io/badge/OpenShift-0D1117?style=for-the-badge&logo=redhatopenshift&logoColor=EE0000#gh-dark-mode-only)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-EFF2F5?style=for-the-badge&logo=typescript&logoColor=3178C6#gh-light-mode-only)
-![JavaScript](https://img.shields.io/badge/JavaScript-EFF2F5?style=for-the-badge&logo=javascript&logoColor=B8860B#gh-light-mode-only)
-![React](https://img.shields.io/badge/React-EFF2F5?style=for-the-badge&logo=react&logoColor=0284C7#gh-light-mode-only)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-EFF2F5?style=for-the-badge&logo=kubernetes&logoColor=326CE5#gh-light-mode-only)
-![OpenShift](https://img.shields.io/badge/OpenShift-EFF2F5?style=for-the-badge&logo=redhatopenshift&logoColor=CC0000#gh-light-mode-only)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![OpenShift](https://img.shields.io/badge/OpenShift-0D1117?style=for-the-badge&logo=redhatopenshift&logoColor=EE0000)
 
 </div>
 
