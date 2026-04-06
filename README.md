@@ -16,6 +16,21 @@
 
 ---
 
+```diff
++ Vibe coder. AI maximalist. I believe the gap between idea and
++ shipped product should be measured in hours — not sprints.
++
++ AI isn't a shortcut. It's a force multiplier. I'm deeply
++ passionate about how LLMs and AI tooling are fundamentally
++ reshaping the way we build software — and I'm all in.
++
++ Always exploring whatever AI tool dropped this week.
+- "Will AI replace developers?"
++ "AI-powered developers will replace those who don't embrace it."
+```
+
+---
+
 <div align="center">
 
 <picture>
