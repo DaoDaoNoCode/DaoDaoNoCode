@@ -6,8 +6,15 @@
 
 <br/>
 
-<img width="370" src="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=dark&perline=6#gh-dark-mode-only" alt="Tech Stack" />
-<img width="370" src="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=light&perline=6#gh-light-mode-only" alt="Tech Stack" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=light" />
+  <img width="300" height="50" alt="Tech Stack" src="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=dark" />
+</picture>
+
+<br/>
+
+![OpenShift](https://img.shields.io/badge/OpenShift-0D1117?style=for-the-badge&logo=redhatopenshift&logoColor=EE0000)
 
 </div>
 
