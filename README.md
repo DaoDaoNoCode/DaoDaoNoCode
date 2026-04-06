@@ -1,8 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Juntao%20Wang&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&fontFamily=Orbitron&desc=%E7%8E%8B%E4%BF%8A%E9%9F%AC&descSize=20&descAlignY=58&descFontFamily=ZCOOL+QingKe+HuangYou)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%40+Red+Hat;MLOps+Platforms+%C2%B7+AI%2FML+Tooling+%C2%B7+Open+Source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Juntao+Wang" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&size=24&duration=4000&pause=3000&color=00D9FF&center=true&vCenter=true&width=300&lines=%E7%8E%8B%E4%BF%8A%E9%9F%AC" alt="Chinese Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%40+Red+Hat;MLOps+Platforms+%C2%B7+AI%2FML+Tooling+%C2%B7+Open+Source" alt="Typing SVG" />
 
 <br/>
 
