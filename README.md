@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=header&text=Juntao%20Wang%20%C2%B7%20%E7%8E%8B%E4%BF%8A%E9%9F%AC&fontSize=34&fontColor=fff&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Juntao%20Wang%20%C2%B7%20%E7%8E%8B%E4%BF%8A%E9%9F%AC&fontSize=34&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
 <div align="center">
 
@@ -6,11 +6,8 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=dark&perline=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=light&perline=6" />
-  <img width="370" alt="Tech Stack" src="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=dark&perline=6" />
-</picture>
+<img width="370" src="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=dark&perline=6#gh-dark-mode-only" alt="Tech Stack" />
+<img width="370" src="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=light&perline=6#gh-light-mode-only" alt="Tech Stack" />
 
 </div>
 
