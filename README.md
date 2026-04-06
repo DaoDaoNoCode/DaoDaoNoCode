@@ -1,30 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Juntao+Wang+%F0%9F%91%8B;%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E7%8E%8B%E4%BF%8A%E9%9F%AC+%F0%9F%91%8B;Frontend+Engineer+%40+Red+Hat;MLOps+Platform+Builder;Open+Source+Contributor" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d9ff&height=140&section=header&text=Juntao%20Wang%20%C2%B7%20%E7%8E%8B%E4%BF%8A%E9%9F%AC&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a8fd4,100:0d4f8b&height=140&section=header&text=Juntao%20Wang%20%C2%B7%20%E7%8E%8B%E4%BF%8A%E9%9F%AC&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
+  <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d9ff&height=140&section=header&text=Juntao%20Wang%20%C2%B7%20%E7%8E%8B%E4%BF%8A%E9%9F%AC&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
+</picture>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%40+Red+Hat;MLOps+Platforms+%C2%B7+AI%2FML+Tooling+%C2%B7+Open+Source;TypeScript+%C2%B7+React+%C2%B7+Python+%C2%B7+Go+%C2%B7+Kubernetes" alt="Typing SVG" />
 
 </div>
 
----
+<div align="center">
 
-```bash
-~/DaoDaoNoCode $ whoami
-> Juntao Wang (王俊韬)  ·  Frontend Engineer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=light" />
+  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=ts,js,react,python,go,kubernetes&theme=dark" />
+</picture>
 
-~/DaoDaoNoCode $ cat focus.txt
-> MLOps Platforms  ·  AI/ML Tooling  ·  Open Source
-
-~/DaoDaoNoCode $ ls stack/
-TypeScript/   React/   Python/   Go/   Kubernetes/
-
-~/DaoDaoNoCode $ git log --oneline
-a1f3c2d  feat: improve ODH Dashboard UX for model serving
-9b2e817  fix: kubeflow pipeline graph rendering
-3d7a021  chore: update MLflow model registry components
-f4c9b38  refactor: shared UI library for OpenShift AI
-
-~/DaoDaoNoCode $ echo $LANGUAGES
-中文 🇨🇳  ·  English 🇬🇧
-```
+</div>
 
 ---
 
@@ -47,3 +41,9 @@ f4c9b38  refactor: shared UI library for OpenShift AI
 </picture>
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:0d1117&height=100&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d4f8b,50:0a8fd4,100:00d9ff&height=100&section=footer" />
+  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:0d1117&height=100&section=footer" />
+</picture>
