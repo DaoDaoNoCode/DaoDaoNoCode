@@ -34,8 +34,8 @@
 + Vibe coder and AI enthusiast. I believe AI tooling can
 + meaningfully compress the distance between idea and shipped code.
 +
-+ Not a maximalist — still navigating where AI shines and where
-+ human judgment stays irreplaceable. Somewhere between
++ Still navigating where AI shines and where human judgment
++ stays irreplaceable. Somewhere between
 + "ship it with Cursor" and "wait, let me actually think about this."
 +
 + Exploring the balance between AI-driven velocity and reliability,
