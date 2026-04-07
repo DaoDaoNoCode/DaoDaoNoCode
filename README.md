@@ -40,6 +40,8 @@
 +
 + Exploring the balance between AI-driven velocity and reliability,
 + while staying curious about everything the AI tooling space has to offer.
+- vibes only
++ vibes + judgment
 ```
 
 ---
