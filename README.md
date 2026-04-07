@@ -31,16 +31,15 @@
 ---
 
 ```diff
-+ Vibe coder. AI maximalist. I believe the gap between idea and
-+ shipped product should be measured in hours — not sprints.
++ Vibe coder and AI enthusiast. I believe AI tooling can
++ meaningfully compress the distance between idea and shipped code.
 +
-+ AI isn't a shortcut. It's a force multiplier. I'm deeply
-+ passionate about how LLMs and AI tooling are fundamentally
-+ reshaping the way we build software — and I'm all in.
++ Not a maximalist — still navigating where AI shines and where
++ human judgment stays irreplaceable. Somewhere between
++ "ship it with Cursor" and "wait, let me actually think about this."
 +
-+ Always exploring whatever AI tool dropped this week.
-- "Will AI replace developers?"
-+ "AI-powered developers will replace those who don't embrace it."
++ Exploring the balance between AI-driven velocity and reliability,
++ while staying curious about everything the AI tooling space has to offer.
 ```
 
 ---
